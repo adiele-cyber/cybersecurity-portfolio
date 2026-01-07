@@ -34,3 +34,7 @@ Kali Linux, Burp Suite
 
 > All activities in this repository were conducted in isolated lab environments
 for educational and professional development purposes.
+
+---
+**Author:** Chibuike Adiele  
+**Focus:** Security Operations & Incident Response
