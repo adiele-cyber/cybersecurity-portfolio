@@ -27,7 +27,7 @@ Kali Linux, Burp Suite
   
 ## Portfolio Navigation
 - [About](about/about-me.md)
-- [SOC Labs](soc-labs/) /soc-labs/
+- [SOC Labs](soc-labs/) [Soc-labs](/soc-labs/)
 - [Incident Response](incident-response/)
 - [Threat Detection](threat-detection/)
 - [Offensive Security Labs](offensive-security-labs/)
