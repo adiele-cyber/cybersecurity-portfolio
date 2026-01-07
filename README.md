@@ -37,4 +37,4 @@ for educational and professional development purposes.
 
 ---
 **Author:** Chibuike Adiele  
-**Focus:** Security Operations & Incident Response
+
