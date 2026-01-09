@@ -66,11 +66,11 @@ probing attempts.
 
 ### Snort Detection
 
-![Snort Alert](/snort-alert.png)
+![Snort Alert](snort.png)
 
 ### Suricata Detection
 
-![Suricata Alert](/suricata-alert.png)
+![Suricata Alert](suricata-alert.png)
 
 
 ---
@@ -92,7 +92,7 @@ indicates this was a reconnaissance-only event.
 
 ### IDS Log Output
 
-![IDS Logs](/ids-log-output.png)
+![IDS Logs](ids-log-output.png)
 
 
 ---
