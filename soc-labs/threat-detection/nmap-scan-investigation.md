@@ -41,7 +41,7 @@ service discovery scan rather than a full port scan.
 
 ### Packet Evidence
 
-![Wireshark SYN Scan](threat-detection/wireshark-syn-scan.png)
+![Wireshark SYN Scan](/wireshark-syn-scan.png)
 
 
 ---
@@ -66,11 +66,11 @@ probing attempts.
 
 ### Snort Detection
 
-![Snort Alert](threat-detection/snort-alert.png)
+![Snort Alert](/snort-alert.png)
 
 ### Suricata Detection
 
-![Suricata Alert](threat-detection/suricata-alert.png)
+![Suricata Alert](/suricata-alert.png)
 
 
 ---
@@ -92,7 +92,7 @@ indicates this was a reconnaissance-only event.
 
 ### IDS Log Output
 
-![IDS Logs](threat-detection/ids-log-output.png)
+![IDS Logs](/ids-log-output.png)
 
 
 ---
