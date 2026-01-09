@@ -24,7 +24,8 @@ Kali Linux, Burp Suite
 - **Incident Response:** Structured investigation of simulated security events
 - **Threat Detection:** Mapping attacker behavior to MITRE ATT&CK techniques
 - **Offensive Labs:** Controlled environments to understand attacker methods
-  
+- **Network Security:** Firewall deployment, rule analysis, and traffic monitoring
+
 ## Portfolio Navigation
 - [About](about/about-me.md)
 - [SOC Labs](soc-labs/)
