@@ -66,7 +66,7 @@ probing attempts.
 
 ### Snort Detection
 
-![Snort Alert](snort.png)
+![Snort Alert](Snort.png)
 
 ### Suricata Detection
 
