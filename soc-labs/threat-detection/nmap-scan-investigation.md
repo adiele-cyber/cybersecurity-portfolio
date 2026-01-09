@@ -39,6 +39,11 @@ nmap -sS -p 443 192.168.1.0/24
 Each host received only one probe, confirming that this was a
 service discovery scan rather than a full port scan.
 
+### Packet Evidence
+
+![Wireshark SYN Scan](images/wireshark-syn-scan.png)
+
+
 ---
 
 ## Step 2 — IDS Detection (Snort & Suricata)
@@ -59,6 +64,15 @@ identified this activity as network reconnaissance.
 Suricata similarly detected port scanning and abnormal HTTP/SSL
 probing attempts.
 
+### Snort Detection
+
+![Snort Alert](images/snort-alert.png)
+
+### Suricata Detection
+
+![Suricata Alert](images/suricata-alert.png)
+
+
 ---
 
 ## Step 3 — Credential and Data Exfiltration Review
@@ -75,6 +89,11 @@ Credentials observed | Username: **test**, Password: **test**
 
 The absence of large transfers, abnormal DNS activity, or exploitation
 indicates this was a reconnaissance-only event.
+
+### IDS Log Output
+
+![IDS Logs](images/ids-log-output.png)
+
 
 ---
 
