@@ -15,6 +15,9 @@ with **GDPR** and **PCI DSS**.
 - Endpoint: Windows 11  
 - EDR Platform: Wazuh Agent  
 - Monitoring Scope: `C:\SensitiveData\`
+## Agent Status
+
+![Wazuh Agent](agent-status.png)
 
 ---
 
@@ -31,6 +34,7 @@ The following settings were enabled:
 
 This ensures every file modification, deletion, or creation is captured
 by the EDR agent.
+![FIM Configuration](fim-config.png)
 
 ---
 
@@ -41,6 +45,7 @@ PowerShell to apply the new FIM rules.
 
 This confirmed that the endpoint was actively enforcing the new
 monitoring policy.
+
 
 ---
 
@@ -54,6 +59,8 @@ To test detection, a simulated insider-threat scenario was created:
 This represents:
 - Unauthorized data manipulation  
 - Potential data destruction or cover-up
+![File Change](file-change.png)
+
 
 ---
 
@@ -71,6 +78,8 @@ Key findings:
 
 This provided forensic-grade evidence of what changed, when it happened,
 and which file was affected.
+![Wazuh Alert](wazuh-alert.png)
+
 
 ---
 
@@ -89,6 +98,8 @@ The alert triggered:
 
 This proves the system was enforcing compliance-grade monitoring rather
 than basic logging.
+![Compliance Mapping](compliance-mapping1.png)
+![Compliance Mapping](compliance-mapping2.png)
 
 ---
 
