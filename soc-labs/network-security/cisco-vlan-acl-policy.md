@@ -17,6 +17,10 @@ least-privilege network access and protect sensitive business systems.
 | VLAN 30 | IT |
 
 Each VLAN represents a separate security zone.
+## Network Topology
+
+![Network Topology](topology1.png)
+![Network Topology](topology2.png)
 
 ---
 
@@ -30,6 +34,16 @@ Sales → Admin | 20 → 10 | Denied | Protects HR, payroll, and executive data 
 Sales → IT | 20 → 30 | Allowed | Allows technical support and troubleshooting |
 IT → All VLANs | 30 → All | Allowed | Required for system administration, updates, and security monitoring |
 Management access | Network devices | SSH only | Prevents credential sniffing and unauthorized access via Telnet |
+
+## VLAN Configuration
+
+![VLANs](it-vlan.png)
+![VLANs](sales-vlan.png)
+![VLANs](admin-vlan.png)
+
+## Access Control Lists
+
+![ACL Rules](acl-rules.png)
 
 ---
 
