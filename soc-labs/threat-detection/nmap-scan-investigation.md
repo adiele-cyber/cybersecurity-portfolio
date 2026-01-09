@@ -41,7 +41,7 @@ service discovery scan rather than a full port scan.
 
 ### Packet Evidence
 
-![Wireshark SYN Scan](/wireshark-syn-scan.png)
+![Wireshark SYN Scan](wireshark-syn-scan.png)
 
 
 ---
