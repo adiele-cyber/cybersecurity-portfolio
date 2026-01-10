@@ -22,8 +22,8 @@ attack simulations, detection pipelines, and defensive controls.
 A real-time endpoint detection and response system used to detect,
 analyze, and report unauthorized file changes on a Windows 11 system.
 
-➡ Case Study:  
-`soc-labs/endpoint-security/wazuh-fim-investigation.md`
+➡ **Case Study:**  
+[Wazuh FIM Investigation](soc-labs/endpoint-security/wazuh-fim-investigation.md)
 
 ---
 
@@ -32,15 +32,15 @@ analyze, and report unauthorized file changes on a Windows 11 system.
 Deployed and configured a next-generation firewall to control traffic,
 enforce security zones, and block malicious activity.
 
-➡ Case Study:  
-`soc-labs/network-security/sophos-firewall.md`
+➡ **Case Study:**  
+[Sophos Firewall Deployment](soc-labs/network-security/sophos-firewall.md)
 
 **Cisco VLAN & ACL — Network Segmentation & Least Privilege**  
 Designed VLANs and access control rules to prevent unauthorized access
 between business departments.
 
-➡ Case Study:  
-`soc-labs/network-security/cisco-vlan-acl-policy.md`
+➡ **Case Study:**  
+[Cisco VLAN & ACL Policy](soc-labs/network-security/cisco-vlan-acl-policy.md)
 
 ---
 
@@ -49,8 +49,8 @@ between business departments.
 Detected and investigated a real reconnaissance attack using IDS and
 packet analysis tools.
 
-➡ Case Study:  
-`soc-labs/threat-detection/nmap-scan-investigation.md`
+➡ **Case Study:**  
+[Nmap Scan Investigation](soc-labs/threat-detection/nmap-scan-investigation.md)
 
 ---
 
@@ -68,9 +68,8 @@ The system monitors:
 Real security events were generated and detected, including failed
 authentication attempts and root-level command execution.
 
-➡ Case Study:  
-`soc-labs/siem/splunk-log-investigation.md`
-
+➡ **Case Study:**  
+[Splunk Log Investigation](soc-labs/siem/splunk-log-investigation.md)
 
 ---
 
@@ -92,10 +91,11 @@ emulation and detection engineering.
 My goal is to work as a **Security Analyst / SOC Analyst** with strong
 visibility across endpoints, networks, and threat activity.
 
+
 ---
 
 ## 📬 Contact
-You can reach me via GitHub or LinkedIn (add your profile link here).
+You can reach me via GitHub or LinkedIn (www.linkedin.com/in/chibuike-adiele-82b4a7201).
 
 
 > All activities in this repository were conducted in isolated lab environments
