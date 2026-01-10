@@ -54,6 +54,26 @@ packet analysis tools.
 
 ---
 
+### 📊 SIEM & Log Analysis
+**Splunk — Linux Security Monitoring & Threat Detection**  
+Deployed Splunk Enterprise as a SIEM to collect Linux authentication and
+system logs, detect suspicious activity, and investigate privilege
+escalation attempts.
+
+The system monitors:
+- SSH authentication events  
+- sudo privilege escalation  
+- User account activity  
+
+Real security events were generated and detected, including failed
+authentication attempts and root-level command execution.
+
+➡ Case Study:  
+`soc-labs/siem/splunk-log-investigation.md`
+
+
+---
+
 ## 🧰 Tools & Technologies
 - Wazuh (SIEM, EDR, FIM)  
 - Sophos XG Firewall  
