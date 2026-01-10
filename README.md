@@ -3,6 +3,17 @@
 
 ---
 
+- 📧 Email: adielechibuike02@email.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/chibuike-adiele-82b4a7201
+- 🧑‍💻 GitHub: https://github.com/adiele-cyber  
+- 🌍 Portfolio Website: https://adiele-cyber.github.io/cybersecurity-portfolio  
+- 📄 CV (PDF): [Download here](cv/Chibuike-Adiele-Cybersecurity-CV.pdf)
+
+---
+
+
+---
+
 ## 👋 About Me
 I am a cybersecurity practitioner with hands-on experience in
 Security Operations, Endpoint Detection & Response, and Network Defense.
@@ -83,6 +94,28 @@ authentication attempts and root-level command execution.
 
 ---
 
+---
+
+## 🎓 Certifications & Professional Training
+
+- **Diploma in Cybersecurity** — AltSchool Africa *(in progress)* 
+- **HTML & CSS Certification** — freeCodeCamp
+- **IT specialist - cybersecurity** - Certiport
+- **IT specialist - Networking** - Certiport
+- **National Skills Qualification (Level 3 in Cybersecurity Analysis)** - Computer Professionals Registration Council of Nigeria
+- **Networking Basics** - Cisco
+- **Multicloud Network Associate** - Aviatrix
+- **Linux for Security Operations**  
+- **Network Security Fundamentals**  
+- **SOC & SIEM Operations (Wazuh, Splunk)**  
+- **IDS & Traffic Analysis (Snort, Suricata, Wireshark)**
+- **Ethical Hacker** - Cisco *(in progress)* 
+
+*Hands-on lab-based training with real attack simulations and detection pipelines.*
+
+---
+
+
 ## 🎯 Career Focus
 I am building deep experience in **Security Operations (SOC)** while
 continuing to develop skills in **offensive security** for adversary
@@ -93,9 +126,15 @@ visibility across endpoints, networks, and threat activity.
 
 
 ---
+## 🤝 Let's Connect
 
-## 📬 Contact
-You can reach me via GitHub or LinkedIn (www.linkedin.com/in/chibuike-adiele-82b4a7201).
+I am open to:
+- SOC Analyst roles  
+- Junior Security Analyst positions  
+- Cybersecurity internships  
+- Blue Team & Detection Engineering roles  
+
+If you’re hiring or collaborating, feel free to reach out.
 
 
 > All activities in this repository were conducted in isolated lab environments
