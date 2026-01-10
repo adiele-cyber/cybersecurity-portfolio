@@ -69,7 +69,7 @@ Real security events were generated and detected, including failed
 authentication attempts and root-level command execution.
 
 ➡ **Case Study:**  
-[Splunk Log Investigation](soc-labs/siem/splunk-log-investigation.md)
+[Splunk Log Investigation](soc-labs/siem/splunk.md)
 
 ---
 
