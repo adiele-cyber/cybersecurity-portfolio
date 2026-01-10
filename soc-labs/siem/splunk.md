@@ -35,7 +35,7 @@ This enables:
 
 ## Security Monitoring Dashboard
 
-![Splunk Dashboard](images/splunk-dashboard.png)
+![Splunk Dashboard](splunk-dashboard.png)
 
 Dashboards were used to visualize:
 - Failed logins  
@@ -70,7 +70,7 @@ Using Splunk search, analysts were able to:
 - View timelines  
 - Correlate multiple log sources  
 
-![Splunk Search](images/splunk-search.png)
+![Splunk Search](splunk-search.png)
 
 ---
 
@@ -83,7 +83,7 @@ The detected activity was confirmed by:
 
 This cross-log validation reduces false positives.
 
-![Splunk Events](images/splunk-events.png)
+![Splunk Events](splunk-events.png)
 
 ---
 
