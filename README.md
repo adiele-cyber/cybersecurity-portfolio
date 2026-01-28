@@ -3,7 +3,7 @@
 
 ---
 
-- 📧 Email: adielechibuike02@email.com  
+- 📧 Email: adielechibuike02@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/chibuike-adiele-82b4a7201
 - 🧑‍💻 GitHub: https://github.com/adiele-cyber  
 - 🌍 Portfolio Website: https://adiele-cyber.github.io/cybersecurity-portfolio  
