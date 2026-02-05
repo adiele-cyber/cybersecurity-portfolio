@@ -93,6 +93,11 @@ authentication attempts and root-level command execution.
 - Linux & Windows  
 
 ---
+### ☁️ Cloud Security Projects
+
+* **AWS Continuous Compliance Monitoring (AWS Config + SNS)**
+  Detects public S3 exposure and triggers real-time alerts
+  🔗 soc-labs/cloud-security/aws-config-compliance-alerting
 
 ---
 
