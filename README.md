@@ -70,7 +70,7 @@ packet analysis tools.
 **AWS Config Continuous Compliance Monitoring — S3 Public Exposure Detection**
 Implemented real-time compliance monitoring using AWS Config and SNS to detect when an S3 bucket becomes publicly accessible and trigger an alert.
 
-➡ **Case Study:**
+➡ **Case Study:**   
 [Continuous Compliance Monitoring](soc-labs/cloud-security/aws-config-compliance-alerting/README.md)
 
 ---
