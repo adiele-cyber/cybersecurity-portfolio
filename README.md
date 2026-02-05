@@ -65,6 +65,16 @@ packet analysis tools.
 
 ---
 
+### ☁️ Cloud Security
+
+**AWS Config Continuous Compliance Monitoring — S3 Public Exposure Detection**
+Implemented real-time compliance monitoring using AWS Config and SNS to detect when an S3 bucket becomes publicly accessible and trigger an alert.
+
+➡ **Case Study:**
+[Continuous Compliance Monitoring](soc-labs/cloud-security/aws-config-compliance-alerting/README.md)
+
+---
+
 ### 📊 SIEM & Log Analysis
 **Splunk — Linux Security Monitoring & Threat Detection**  
 Deployed Splunk Enterprise as a SIEM to collect Linux authentication and
@@ -84,13 +94,6 @@ authentication attempts and root-level command execution.
 
 ---
 
-### ☁️ Cloud Security Projects
-
-* **AWS Continuous Compliance Monitoring (AWS Config + SNS)**
-  Detects public S3 exposure and triggers real-time alerts
-  🔗 soc-labs/cloud-security/aws-config-compliance-alerting
----
-
 ## 🧰 Tools & Technologies
 - Wazuh (SIEM, EDR, FIM)  
 - Sophos XG Firewall  
@@ -98,8 +101,6 @@ authentication attempts and root-level command execution.
 - Snort & Suricata (IDS/NSM)  
 - Wireshark  
 - Linux & Windows  
-
----
 
 ---
 
