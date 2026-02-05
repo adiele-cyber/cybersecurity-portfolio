@@ -84,6 +84,13 @@ authentication attempts and root-level command execution.
 
 ---
 
+### ☁️ Cloud Security Projects
+
+* **AWS Continuous Compliance Monitoring (AWS Config + SNS)**
+  Detects public S3 exposure and triggers real-time alerts
+  🔗 soc-labs/cloud-security/aws-config-compliance-alerting
+---
+
 ## 🧰 Tools & Technologies
 - Wazuh (SIEM, EDR, FIM)  
 - Sophos XG Firewall  
@@ -93,11 +100,6 @@ authentication attempts and root-level command execution.
 - Linux & Windows  
 
 ---
-### ☁️ Cloud Security Projects
-
-* **AWS Continuous Compliance Monitoring (AWS Config + SNS)**
-  Detects public S3 exposure and triggers real-time alerts
-  🔗 soc-labs/cloud-security/aws-config-compliance-alerting
 
 ---
 
