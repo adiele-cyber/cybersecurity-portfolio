@@ -88,8 +88,8 @@ Remediation Applied
 
 📎 Detailed walkthrough with screenshots:
 
-**Download the full lab report:**
-`Continuous_Compliance_AWS_Config_SNS_Chibuike_Adiele.odt`
+**Download the full lab report:** View Full Report (PDF)
+
 
 ---
 
