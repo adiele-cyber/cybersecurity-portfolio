@@ -84,11 +84,11 @@ Remediation Applied
 
 ---
 
-## 📄 Full Evidence Documentation
+## 📄 Full Documentation
 
-📎 Detailed walkthrough with screenshots:
+Click below to view the complete lab report with screenshots:
 
-**Download the full lab report:** View Full Report (PDF)
+[View Full Report (PDF)](./Continuous_Compliance_AWS_Config_SNS_Chibuike_Adiele.odt)
 
 
 ---
