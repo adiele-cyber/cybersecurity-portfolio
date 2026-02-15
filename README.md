@@ -71,7 +71,7 @@ packet analysis tools.
 Designed and implemented a real-time cloud security monitoring and automated response system in AWS to detect unauthorized access to sensitive credentials using a honeytoken-based detection strategy.
 This project simulates a credential compromise/insider threat scenario and demonstrates how a Security Operations team can detect suspicious activity and immediately contain it using automated controls.
 
-➡ **Case Study:**
+➡ **Case Study:**  
 [Cloud-Security-Honeytoken-Detection](soc-labs/cloud-security/cloud-security-honeytoken-detection/README.md)
 
 **AWS Config Continuous Compliance Monitoring — S3 Public Exposure Detection**  
