@@ -91,7 +91,7 @@ This project aligns with:
 ## Documentation
 
 Full technical implementation:
-[Project Report](./Adiele_Chibuike_Ambless_CloudSecurity_Exam.pdf)
+[Project Report](./Adiele_Chibuike_Ambless_CloudSecurity_Exam.pdf.pdf)
 
 ---
 
