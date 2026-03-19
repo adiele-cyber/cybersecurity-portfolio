@@ -1,6 +1,7 @@
 # 🔐 PayLink Africa – Secure Payment System Architecture
 
 This project presents a **secure system architecture design** for a fintech platform, PayLink Africa, which supports digital wallets, online payments, and API integrations with financial institutions.
+> ⚠️ Note: PayLink Africa is a conceptual fintech platform used for educational and portfolio purposes.
 
 It demonstrates practical application of core cybersecurity principles including:
 - Defense in Depth
