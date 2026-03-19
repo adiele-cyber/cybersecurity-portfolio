@@ -38,6 +38,17 @@ analyze, and report unauthorized file changes on a Windows 11 system.
 
 ---
 
+### 🔐 Security Architecture
+**Secure Payment System Architecture (Fintech)**      
+This project presents a **secure system architecture design** for a fintech platform, PayLink Africa,    
+which processes digital payments, wallet transactions, and API integrations with financial institutions.
+It demonstrates my ability to design **secure, scalable, and real-world systems** using industry security principles and frameworks.
+
+➡ **Case Study:** 
+[Secure Payment System Design](./secure-payment-system-design)
+
+---
+
 ### 🌐 Network Security
 **Sophos Firewall — Perimeter Defense & Threat Prevention**  
 Deployed and configured a next-generation firewall to control traffic,
