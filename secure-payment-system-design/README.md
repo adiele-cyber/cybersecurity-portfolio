@@ -81,7 +81,7 @@ This design is influenced by:
 ## 📄 Documentation
 
 Full report available here:  
-👉 [Download PDF](SECURE PAYMENT SYSTEM ARCHITECTURE by ADIELE.pdf)
+👉 [Download PDF](SECURE-PAYMENT-SYSTEM-ARCHITECTURE-by-ADIELE.pdf)
 
 ---
 
