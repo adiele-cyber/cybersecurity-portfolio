@@ -81,14 +81,14 @@ This design is influenced by:
 ## 📄 Documentation
 
 Full report available here:  
-👉 [Download PDF](PayLink-Secure-Architecture.pdf)
+👉 [Download PDF](SECURE PAYMENT SYSTEM ARCHITECTURE by ADIELE.pdf)
 
 ---
 
 ## 👨‍💻 Author
 
 **Chibuike Adiele**  
-Cybersecurity Enthusiast | Aspiring Security Architect  
+Cybersecurity Enthusiast  
 
 ---
 
