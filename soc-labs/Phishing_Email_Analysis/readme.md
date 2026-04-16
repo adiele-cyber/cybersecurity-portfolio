@@ -81,6 +81,8 @@ The email used base64 encoding, requiring decoding to reveal its contents.
 awk 'BEGIN {p=0} /^$/ {p=1; next} p {print}' challenge1.eml > body.txt
 base64 -d body.txt > decoded.html
 
+---
+
 ⚠️ Observation:
 Encoding is often used to evade detection by email security filters.
 
