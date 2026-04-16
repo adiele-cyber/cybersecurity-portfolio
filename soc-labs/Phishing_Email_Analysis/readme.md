@@ -37,10 +37,10 @@ The email was analyzed in raw `.eml` format to avoid accidental execution of mal
 ![Headers](evidence/02_headers.png)
 
 ### Key Findings:
-- **Subject:** *(replace with your answer)*
-- **Recipient:** *(replace with your answer)*
-- **Sender (Display Name):** *(replace)*
-- **Actual Sender Email:** *(replace)*
+- **Subject:** Your account has been flagged for unusual activity
+- **Recipient:** dderringer@mighty-solutions.net
+- **Sender (Display Name):** Outlook Support Team
+- **Actual Sender Email:** social201511138@social.helwan.edu.eg
 
 ⚠️ Observation:
 The sender's display name impersonates a trusted entity while the actual email domain differs — a common phishing technique.
@@ -51,9 +51,9 @@ The sender's display name impersonates a trusted entity while the actual email d
 
 ![Infrastructure](evidence/07_whois.png)
 
-- **Sender IP:** *(replace)*
-- **Resolved Hostname:** *(replace)*
-- **Organization:** *(replace)*
+- **Sender IP:** 40.107.22.60
+- **Resolved Hostname:** mail-am6eur05on2060.outbound.protection.outlook.com
+- **Organization:** Microsoft Corporation
 
 ⚠️ Observation:
 The email originated from infrastructure not associated with the claimed sender.
@@ -64,10 +64,7 @@ The email originated from infrastructure not associated with the claimed sender.
 
 ![SPF](evidence/03_spf.png)
 
-- **SPF Result:** *(replace)*
-
-⚠️ Observation:
-SPF failure indicates the sender is not authorized to send emails on behalf of the domain.
+- **SPF Result:** pass
 
 ---
 
@@ -97,32 +94,31 @@ hxxps[://]0[.]232[.]205[.]92[.]host[.]secureserver[.]net/lclbluewin08812/
 ⚠️ Observation:
 The attacker used a trusted hosting provider combined with an IP-based subdomain to disguise the malicious link.
 
-🦠 Step 7: Threat Intelligence Validation
+## 🦠 Step 7: Threat Intelligence Validation
 
 Fortinet Verdict: Phishing
 
-🚨 Indicators of Compromise (IOCs)
-hxxps[://]0[.]232[.]205[.]92[.]host[.]secureserver[.]net/lclbluewin08812/
-Suspicious sender domain
-Encoded email body
+🚨 Indicators of Compromise (IOCs)        
+-hxxps[://]0[.]232[.]205[.]92[.]host[.]secureserver[.]net/lclbluewin08812/          
+-Suspicious sender domain                
+-Encoded email body
 
-🧠 Final Analysis
-
+## 🧠 Final Analysis          
 This email exhibits multiple characteristics of a phishing attack, including spoofed sender identity, failed authentication checks, and a malicious URL designed to harvest user credentials.
 
-✅ Verdict
+# ✅ Verdict
 
 Phishing Email — Not Genuine
 
-🛡️ Recommendations
-Block sender IP and domain
-Blacklist malicious URL
-Enforce SPF, DKIM, and DMARC policies
-Conduct user awareness training
+# 🛡️ Recommendations    
+-Block sender IP and domain        
+-Blacklist malicious URL      
+-Enforce SPF, DKIM, and DMARC policies      
+-Conduct user awareness training
 
-📚 Skills Demonstrated
-Email Header Analysis
-Threat Intelligence Analysis
-Linux Command Line for Security
-Phishing Detection Techniques
-SOC Investigation Workflow
+# 📚 Skills Demonstrated          
+-Email Header Analysis            
+-Threat Intelligence Analysis      
+-Linux Command Line for Security      
+-Phishing Detection Techniques          
+-SOC Investigation Workflow
