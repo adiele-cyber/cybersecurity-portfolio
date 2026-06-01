@@ -125,7 +125,12 @@ authentication attempts and root-level command execution.
 - Cisco Networking (VLANs, ACLs)  
 - Snort & Suricata (IDS/NSM)  
 - Wireshark  
-- Linux & Windows  
+- Linux & Windows 
+- emldump.py
+- tcpdump/tshark
+- Malware attachment triage: file, strings, hash utilities
+- Email header analysis
+- FTP traffic analysis
 
 ---
 
