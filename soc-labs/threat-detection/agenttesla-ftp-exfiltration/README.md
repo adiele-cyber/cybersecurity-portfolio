@@ -170,9 +170,9 @@ This incident is rated High because the investigation confirmed:
 
 ## Reports
 
-* [Phishing Analysis Report](reports/phishing-analysis-report.pdf)
-* [Network Investigation Report](reports/network-investigation-report.pdf)
-* [IOC Summary Table](reports/ioc-summary-table.xlsx)
+* [Phishing Analysis Report](reports/Phishing-Analysis-Report.pdf)
+* [Network Investigation Report](reports/Network-Investigation-Report.pdf)
+* [IOC Summary Table](reports/IOC-Summary-Table.xlsx)
 
 ---
 
