@@ -38,6 +38,22 @@ analyze, and report unauthorized file changes on a Windows 11 system.
 
 ---
 
+### 🚨 Threat Detection & Network Monitoring
+**AgentTesla Phishing & FTP Data Exfiltration — SOC Incident Investigation**            
+Investigated a phishing-based AgentTesla malware incident using email and packet capture evidence. The case involved analyzing a malicious email, extracting a disguised executable attachment, identifying the infected host, and confirming FTP-based data exfiltration through Wireshark.
+
+➡ **Case Study**:          
+[AgentTesla FTP Exfiltration Investigation](soc-labs/threat-detection/agenttesla-ftp-exfiltration/README.md)          
+
+**Nmap Scan Detection — Snort, Suricata & Wireshark**  
+Detected and investigated a real reconnaissance attack using IDS and
+packet analysis tools.
+
+➡ **Case Study:**  
+[Nmap Scan Investigation](soc-labs/threat-detection/nmap-scan-investigation.md)
+
+---
+
 ### 🔐 Security Architecture
 **Secure Payment System Architecture (Fintech)**      
 This project presents a **secure system architecture design** for a fintech platform, PayLink Africa,    
@@ -64,22 +80,6 @@ between business departments.
 ➡ **Case Study:**  
 [Cisco VLAN & ACL Policy](soc-labs/network-security/cisco-vlan-acl-policy.md)
 
----
-
-### 🚨 Threat Detection & Network Monitoring
-**Nmap Scan Detection — Snort, Suricata & Wireshark**  
-Detected and investigated a real reconnaissance attack using IDS and
-packet analysis tools.
-
-➡ **Case Study:**  
-[Nmap Scan Investigation](soc-labs/threat-detection/nmap-scan-investigation.md)
-
-
-**AgentTesla Phishing & FTP Data Exfiltration — SOC Incident Investigation**            
-Investigated a phishing-based AgentTesla malware incident using email and packet capture evidence. The case involved analyzing a malicious email, extracting a disguised executable attachment, identifying the infected host, and confirming FTP-based data exfiltration through Wireshark.
-
-➡ **Case Study**:          
-[AgentTesla FTP Exfiltration Investigation](soc-labs/threat-detection/agenttesla-ftp-exfiltration/README.md)
 
 ---
 
