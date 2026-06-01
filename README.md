@@ -74,6 +74,13 @@ packet analysis tools.
 ➡ **Case Study:**  
 [Nmap Scan Investigation](soc-labs/threat-detection/nmap-scan-investigation.md)
 
+
+**AgentTesla Phishing & FTP Data Exfiltration — SOC Incident Investigation**            
+Investigated a phishing-based AgentTesla malware incident using email and packet capture evidence. The case involved analyzing a malicious email, extracting a disguised executable attachment, identifying the infected host, and confirming FTP-based data exfiltration through Wireshark.
+
+➡ **Case Study**:          
+[AgentTesla FTP Exfiltration Investigation](soc-labs/threat-detection/agenttesla-ftp-exfiltration/README.md)
+
 ---
 
 ### ☁️ Cloud Security
